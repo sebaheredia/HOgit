@@ -29,6 +29,7 @@ cd HOgit
 Editamos el archivo de README y hacemos un nuevo commit
 
 ```
+## lo modifique
 vi README.md
 .........
 git add README.md
